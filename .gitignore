@@ -1,0 +1,22 @@
+# General
+.DS_Store
+
+# Dependencies
+node_modules
+*/node_modules
+
+# Hardhat artifacts
+/blockchain/artifacts
+/blockchain/cache
+
+# Next.js build files
+/frontend/.next/
+/frontend/out/
+
+# Environment files
+.env
+*/.env
+*/.env*.local
+
+# Vercel
+.vercel
